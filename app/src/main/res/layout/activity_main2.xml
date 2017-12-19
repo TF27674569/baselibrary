@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/downLoadbtn"
+        android:layout_width="match_parent"
+        android:text="下载"
+        android:layout_height="50dp" />
+
+    <com.demo.view.bezier.WaveView
+        android:layout_marginTop="50dp"
+        android:id="@+id/waveView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/tvProgress"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:text="进度"
+        android:textSize="40dp"
+        android:textColor="#FF4DCC4B"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</FrameLayout>
+

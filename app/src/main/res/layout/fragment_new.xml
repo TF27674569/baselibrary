@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="购物车"
+        android:layout_width="match_parent"
+        android:id="@+id/btnShop"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="饿了么点赞控件"
+        android:layout_width="match_parent"
+        android:id="@+id/btnComment"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="移动动画"
+        android:layout_width="match_parent"
+        android:id="@+id/btnMoveAnima"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="RecyclerView"
+        android:layout_width="match_parent"
+        android:id="@+id/btnRecycler"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="点赞动画"
+        android:layout_width="match_parent"
+        android:id="@+id/btnLove"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:text="Rx"
+        android:layout_width="match_parent"
+        android:id="@+id/btnRx"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

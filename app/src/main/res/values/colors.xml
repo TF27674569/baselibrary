@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_background">#bf9238</color>
+
+    <color name="title_color">@color/title_bar_bg_day</color>
+    <color name="default_text_night">#ff5c6266</color>
+
+    <color name="title_bar_bg_day">#ffdcd9cf</color>
+    <color name="tab_text_highlight">#ff735646</color>
+    <color name="tab_text_highlight_night">@color/default_text_night</color>
+    <color name="tab_text_normal">#ff999999</color>
+    <color name="tab_text_normal_night">#ff4d5059</color>
+
+    <color name="s2">#ff666666</color>
+    <color name="s2_night">#ff404651</color>
+    <color name="transparent">#00000000</color>
+    <color name="s3">#ff999999</color>
+    <color name="s1">#ff333333</color>
+
+    <color name="list_item_divider">#ffe6e6e6</color>
+    <color name="text_color_read">#FF4001</color>
+
+    <color name="colorYellow">#feef50</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+</resources>
